@@ -51,9 +51,11 @@ Vedtaksrammeverket vil bestå av tre faser:
 * Oversikt over hvilke informasjon som overføres, og eventuelle ondsinnede scenarier hvor informasjonen kan benyttes alene, eller sammenstilt med annen informasjon.
 	* [Lenke_til_informasjons-klasifisering]
 * Identifisere applikasjoner og arbeidsbelastninger som er klare for skyen.
+	* [Lenke_til_tjeneste_katlog]
 * Kartlegging av styrende dokumenter og prinsipper.
 	* [Lenke_til_styrende_lover_og_forskifter_for_tjenesten]
 * Gjennomføre vurdering av {selskapnavn}s IT-infrastruktur og applikasjoner, relativt til endring i tjenesten (scoring: bedre, billigere, sikrere).
+	* [Lenke_til_gjeldende_besluttings-matrise]
 * Utvikle en plan for overføring til skyen [Plan], og tilbake [Rollback/Tilbakeføring]  ved endring i vurderinger som tilsier at dette er nødvendig (Nasjonale integritet, eller tilsvarende hensyn).
 
 **Fase 2: Overgang**
