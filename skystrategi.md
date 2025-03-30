@@ -72,4 +72,4 @@ Vedtaksrammeverket vil bestå av tre faser:
 
 **Konklusjon**
 
-Denne  strategien legger føringer for hvordan {selskapnavn}  skal vedta bruk og forvalte tjenester. Ved å overholde de retningsgivende prinsippene og implementere vedtaks-rammeverket, kan Domstolen dra nytte av skytjenester, og måle nytte opp mot styrende prinsipper.
+Denne  strategien legger føringer for hvordan {selskapnavn}  skal vedta bruk og forvalte tjenester. Ved å overholde de retningsgivende prinsippene og implementere vedtaks-rammeverket, kan {selskapnavn} dra nytte av skytjenester, og måle nytte opp mot styrende prinsipper.
