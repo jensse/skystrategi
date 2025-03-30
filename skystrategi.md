@@ -31,10 +31,14 @@ De primære driverene i denne  strategien er å:
 Følgende retningsgivende prinsipper veileder utvikling, bruk og implementeringen av skytjeneste:
 
 * **Sikkerhet først:** Sikkerhet er avgjørende, og alle skytjenester må oppfylle de høyeste standardene for databeskyttelse og cybersikkerhet.
+	* [Lenke_til_oppdatert_ikke-funksjonelle_krav_integritet_og_konfedensialitet]
+	 	
 * **Samsvar med forskrifter:** Alle skytjenester må overholde gjeldende lover, forskrifter og retningslinjer som er førende for samfunnskritiske funksjoner som  rettssikkerhet og data suverenitet.
 	* [Lenke_til_oppdatert_liste_over_styrende_lover_og_forskifter]
+
 * **Smidighet og innovasjon:** Skytjenester skal gjøre det mulig for {selskapnavn} å tilpasse seg raskt til skiftende behov og omfavne innovasjon.
 	* [Lenke_til_bereging_av_sikkerhet_og_prosess_-gevinster]
+
 * **Kostnadsoptimalisering:** Skytjenester skal brukes for å redusere IT-kostnader og forbedre ressursutnyttelse.
 	* [Lenke_til_operativ_kostnads_bereging_for_tjenester]
 
